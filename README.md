@@ -33,7 +33,7 @@ Implemented **Automated CI/CD pipelines** for building, testing, and deploying a
 
 1. Clone the repository:
 
-    git clone https://github.com/Sainath-344/ci-cd-daveai.git
+  git clone https://github.com/Sainath-344/ci-cd-daveai.git
    
   cd ci-cd-daveai
 
