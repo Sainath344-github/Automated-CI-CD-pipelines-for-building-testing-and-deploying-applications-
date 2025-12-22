@@ -34,13 +34,14 @@ Implemented **Automated CI/CD pipelines** for building, testing, and deploying a
 1. Clone the repository:
 
     git clone https://github.com/Sainath-344/ci-cd-daveai.git
+   
   cd ci-cd-daveai
 
-2. Configure Jenkins with your Bitbucket repository credentials.
+3. Configure Jenkins with your Bitbucket repository credentials.
 
-3. Set up Docker and GCP environment (Cloud Run, Container Registry).
+4. Set up Docker and GCP environment (Cloud Run, Container Registry).
 
-4. Trigger Jenkins pipeline to automatically build, push, and deploy containers.
+5. Trigger Jenkins pipeline to automatically build, push, and deploy containers.
 
 ## Author
 Sainath Reddy Ganadhipalli – DevOps / Cloud Engineer
